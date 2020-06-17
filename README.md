@@ -1,4 +1,4 @@
-# Marketing_Mailing_Predictive_Analytics (PySpark)
+# Marketing Mailing Predictive Analytics (PySpark)
 This is a group project. Team 4JH includes Jing Li, Jiayin Liu, Jacqueline Huang, Jack Ye, Han Lu.
 
 
